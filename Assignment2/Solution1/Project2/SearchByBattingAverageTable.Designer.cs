@@ -176,7 +176,7 @@
             // 
             // maxNumeric
             // 
-            this.maxNumeric.DecimalPlaces = 2;
+            this.maxNumeric.DecimalPlaces = 3;
             this.maxNumeric.Increment = new decimal(new int[] {
             5,
             0,
@@ -194,7 +194,7 @@
             // 
             // minNumeric
             // 
-            this.minNumeric.DecimalPlaces = 2;
+            this.minNumeric.DecimalPlaces = 3;
             this.minNumeric.Increment = new decimal(new int[] {
             5,
             0,

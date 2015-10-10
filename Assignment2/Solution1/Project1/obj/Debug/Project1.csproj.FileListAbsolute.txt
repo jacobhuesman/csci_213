@@ -18,3 +18,17 @@ E:\PC\Documents\GitHub\School\CSCI213\Assignment2\Solution1\Project1\obj\Debug\P
 E:\PC\Documents\GitHub\CSCI213\Assignment2\Solution1\Project1\bin\Debug\Project1.exe.config
 E:\PC\Documents\GitHub\CSCI213\Assignment2\Solution1\Project1\obj\Debug\Project1.exe
 E:\PC\Documents\GitHub\CSCI213\Assignment2\Solution1\Project1\obj\Debug\Project1.pdb
+E:\PC\Documents\GitHub\CSCI213\Assignment2\Solution1\Project1\bin\Debug\Baseball.mdf
+E:\PC\Documents\GitHub\CSCI213\Assignment2\Solution1\Project1\bin\Debug\Baseball_log.ldf
+E:\PC\Documents\GitHub\CSCI213\Assignment2\Solution1\Project1\bin\Debug\Project1.exe
+E:\PC\Documents\GitHub\CSCI213\Assignment2\Solution1\Project1\bin\Debug\Project1.pdb
+E:\PC\Documents\GitHub\CSCI213\Assignment2\Solution1\Project1\bin\Debug\DBBaseball.dll
+E:\PC\Documents\GitHub\CSCI213\Assignment2\Solution1\Project1\bin\Debug\EntityFramework.dll
+E:\PC\Documents\GitHub\CSCI213\Assignment2\Solution1\Project1\bin\Debug\EntityFramework.SqlServer.dll
+E:\PC\Documents\GitHub\CSCI213\Assignment2\Solution1\Project1\bin\Debug\DBBaseball.pdb
+E:\PC\Documents\GitHub\CSCI213\Assignment2\Solution1\Project1\bin\Debug\EntityFramework.xml
+E:\PC\Documents\GitHub\CSCI213\Assignment2\Solution1\Project1\bin\Debug\EntityFramework.SqlServer.xml
+E:\PC\Documents\GitHub\CSCI213\Assignment2\Solution1\Project1\obj\Debug\Project1.csprojResolveAssemblyReference.cache
+E:\PC\Documents\GitHub\CSCI213\Assignment2\Solution1\Project1\obj\Debug\Project1.SearchByLastTable.resources
+E:\PC\Documents\GitHub\CSCI213\Assignment2\Solution1\Project1\obj\Debug\Project1.Properties.Resources.resources
+E:\PC\Documents\GitHub\CSCI213\Assignment2\Solution1\Project1\obj\Debug\Project1.csproj.GenerateResource.Cache
