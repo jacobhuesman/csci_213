@@ -1,0 +1,10 @@
+E:\PC\Documents\GitHub\School\CSCI213\Assignment1\Project4\bin\Debug\Project4.exe.config
+E:\PC\Documents\GitHub\School\CSCI213\Assignment1\Project4\bin\Debug\Project4.exe
+E:\PC\Documents\GitHub\School\CSCI213\Assignment1\Project4\bin\Debug\Project4.pdb
+E:\PC\Documents\GitHub\School\CSCI213\Assignment1\Project4\obj\Debug\Project4.csprojResolveAssemblyReference.cache
+E:\PC\Documents\GitHub\School\CSCI213\Assignment1\Project4\obj\Debug\Project4.Properties.Resources.resources
+E:\PC\Documents\GitHub\School\CSCI213\Assignment1\Project4\obj\Debug\Project4.csproj.GenerateResource.Cache
+E:\PC\Documents\GitHub\School\CSCI213\Assignment1\Project4\obj\Debug\Project4.exe
+E:\PC\Documents\GitHub\School\CSCI213\Assignment1\Project4\obj\Debug\Project4.pdb
+E:\PC\Documents\GitHub\School\CSCI213\Assignment1\Project4\obj\Debug\Project4.EmployeeData.resources
+E:\PC\Documents\GitHub\School\CSCI213\Assignment1\Project4\obj\Debug\Project4.EmployeePayData.resources

@@ -1,0 +1,12 @@
+E:\PC\Documents\GitHub\School\CSCI213\Assignment2\Solution2\PersonnelDB\bin\Debug\Personnel.mdf
+E:\PC\Documents\GitHub\School\CSCI213\Assignment2\Solution2\PersonnelDB\bin\Debug\Personnel_log.ldf
+E:\PC\Documents\GitHub\School\CSCI213\Assignment2\Solution2\PersonnelDB\bin\Debug\PersonnelDB.dll.config
+E:\PC\Documents\GitHub\School\CSCI213\Assignment2\Solution2\PersonnelDB\bin\Debug\PersonnelDB.dll
+E:\PC\Documents\GitHub\School\CSCI213\Assignment2\Solution2\PersonnelDB\bin\Debug\PersonnelDB.pdb
+E:\PC\Documents\GitHub\School\CSCI213\Assignment2\Solution2\PersonnelDB\bin\Debug\EntityFramework.dll
+E:\PC\Documents\GitHub\School\CSCI213\Assignment2\Solution2\PersonnelDB\bin\Debug\EntityFramework.SqlServer.dll
+E:\PC\Documents\GitHub\School\CSCI213\Assignment2\Solution2\PersonnelDB\bin\Debug\EntityFramework.xml
+E:\PC\Documents\GitHub\School\CSCI213\Assignment2\Solution2\PersonnelDB\bin\Debug\EntityFramework.SqlServer.xml
+E:\PC\Documents\GitHub\School\CSCI213\Assignment2\Solution2\PersonnelDB\obj\Debug\PersonnelDB.dll
+E:\PC\Documents\GitHub\School\CSCI213\Assignment2\Solution2\PersonnelDB\obj\Debug\PersonnelDB.pdb
+E:\PC\Documents\GitHub\School\CSCI213\Assignment2\Solution2\PersonnelDB\obj\Debug\PersonnelDB.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+e:\pc\documents\visual studio 2013\Projects\Assignment1\Project1\bin\Debug\Project1.exe.config
+E:\PC\Documents\GitHub\School\CSCI213\Assignment1\Project1\bin\Debug\Project1.exe.config
+E:\PC\Documents\GitHub\School\CSCI213\Assignment1\Project1\bin\Debug\Project1.exe
+E:\PC\Documents\GitHub\School\CSCI213\Assignment1\Project1\bin\Debug\Project1.pdb
+E:\PC\Documents\GitHub\School\CSCI213\Assignment1\Project1\obj\Debug\Project1.Properties.Resources.resources
+E:\PC\Documents\GitHub\School\CSCI213\Assignment1\Project1\obj\Debug\Project1.csproj.GenerateResource.Cache
+E:\PC\Documents\GitHub\School\CSCI213\Assignment1\Project1\obj\Debug\Project1.exe
+E:\PC\Documents\GitHub\School\CSCI213\Assignment1\Project1\obj\Debug\Project1.pdb
+E:\PC\Documents\GitHub\School\CSCI213\Assignment1\Project1\obj\Debug\Project1.NewStudentForm.resources

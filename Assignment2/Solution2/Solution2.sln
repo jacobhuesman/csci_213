@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonnelDB", "PersonnelDB\PersonnelDB.csproj", "{32401F48-4306-4844-8F51-CFA11F3AC81D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project3", "Project3\Project3.csproj", "{1333C2D9-A6D6-4528-A6A2-ADA36B9B3B1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32401F48-4306-4844-8F51-CFA11F3AC81D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32401F48-4306-4844-8F51-CFA11F3AC81D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32401F48-4306-4844-8F51-CFA11F3AC81D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32401F48-4306-4844-8F51-CFA11F3AC81D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1333C2D9-A6D6-4528-A6A2-ADA36B9B3B1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1333C2D9-A6D6-4528-A6A2-ADA36B9B3B1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1333C2D9-A6D6-4528-A6A2-ADA36B9B3B1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1333C2D9-A6D6-4528-A6A2-ADA36B9B3B1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+E:\PC\Documents\GitHub\School\CSCI213\Assignment1\Project2\bin\Debug\Project2.exe.config
+E:\PC\Documents\GitHub\School\CSCI213\Assignment1\Project2\obj\Debug\Project2.csprojResolveAssemblyReference.cache
+E:\PC\Documents\GitHub\School\CSCI213\Assignment1\Project2\obj\Debug\Project1.Properties.Resources.resources
+E:\PC\Documents\GitHub\School\CSCI213\Assignment1\Project2\obj\Debug\Project2.csproj.GenerateResource.Cache
+E:\PC\Documents\GitHub\School\CSCI213\Assignment1\Project2\bin\Debug\Project2.exe
+E:\PC\Documents\GitHub\School\CSCI213\Assignment1\Project2\bin\Debug\Project2.pdb
+E:\PC\Documents\GitHub\School\CSCI213\Assignment1\Project2\obj\Debug\Project2.exe
+E:\PC\Documents\GitHub\School\CSCI213\Assignment1\Project2\obj\Debug\Project2.pdb
+E:\PC\Documents\GitHub\School\CSCI213\Assignment1\Project2\obj\Debug\Project2.SignUpSheet.resources
